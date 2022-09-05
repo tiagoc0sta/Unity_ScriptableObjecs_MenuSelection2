@@ -11,4 +11,4 @@ public class Map : ScriptableObject
     public Color nameColor;
     public Sprite mapImage;
     public Object sceneToLoad;
-}
+}//
